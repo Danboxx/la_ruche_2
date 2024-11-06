@@ -73,7 +73,7 @@ header{
 
 .chariot {
     color: #f3c827;
-    font-size: 30px;
+    font-size: 15px;
 }
 
 /* HERO */
@@ -107,4 +107,30 @@ h3{
 .spaceD{
     padding: 40px 50px;
 
+}
+
+.panier1 {
+    color: white
+    font-size: 16px;
+}
+
+.produits {
+    background-color: #f3c827;
+    
+}
+
+.mage {
+    width: 100%;
+}
+
+.paduit {
+    padding: 16px;
+}
+
+.boutn {
+    justify-content: center;
+}
+
+.carte {
+    width: 100%;
 }
