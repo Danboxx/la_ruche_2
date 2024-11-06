@@ -71,6 +71,11 @@ header{
     font-size: 30px;
 }
 
+.chariot {
+    color: #f3c827;
+    font-size: 30px;
+}
+
 /* HERO */
 .hero{
     height: 100vh;
@@ -88,9 +93,18 @@ h1 {
 
 .engagement {
     width: 45%;
-    
-}
+    }
 
 h3{
     width: 100%;
+    margin-bottom: 30px;
+}
+
+.bienfait {
+    width: 25%;
+}
+
+.spaceD{
+    padding: 40px 50px;
+
 }
